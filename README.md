@@ -1,1 +1,1 @@
-[осеменить](https://royming228.github.io/osemenit/)
+[осеменить]( https://royming228.github.io/osemenit/)
